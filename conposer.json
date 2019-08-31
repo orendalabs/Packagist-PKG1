@@ -1,0 +1,7 @@
+{
+    "name": "orendalabs/pkg1",
+    "description": "Laravel Platform",
+    "require": {
+        "php": "^5.3.3 || ^7.2"
+    }
+}
